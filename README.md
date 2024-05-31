@@ -21,5 +21,5 @@ Thanks for the author.
 ## TODO List
 
 - [√] Add the Mi common service.
-- [×] Add GPT in the Mi Video Box.
+- [√] Add GPT in the Mi Video Box.
 - [×] Add the memory module.
